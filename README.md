@@ -1,6 +1,12 @@
 # FREELANCE TEST (VITE REACT JS) 👨‍💻
 
-Deskripsi singkat tentang proyek ini.
+### Untuk Test Soal 1 dan 2 saya simpan di folder 
+```
+FreelanceTest/testCode/
+```
+
+
+### Deskripsi singkat tentang Soal 3 dan 4 menggunakan REACT JS
 
 ## Tech Stack 🕹
 
