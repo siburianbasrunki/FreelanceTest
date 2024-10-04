@@ -1,8 +1,8 @@
-# FREELANCE TEST (VITE REACT JS)
+# FREELANCE TEST (VITE REACT JS) 👨‍💻
 
 Deskripsi singkat tentang proyek ini.
 
-## Tech Stack
+## Tech Stack 🕹
 
 - **Front-end**: React.js
 - **State Management**: React Hooks
@@ -10,14 +10,34 @@ Deskripsi singkat tentang proyek ini.
 - **API**: Axios
 - **Pengembangan**: JavaScript (ES6)
 
-## Fitur
+## Fitur ⚒
 
 - Menampilkan daftar produk dengan pagination.
 - Mencari produk berdasarkan nama.
 - Memfilter produk berdasarkan kategori.
 - Menampilkan loading state menggunakan skeleton loader.
 - Menangani error saat mengambil data dari API.
-
+  
+## Cara Clone 🚀
+Untuk meng-clone repositori ini, ikuti langkah-langkah berikut:
+- Pastikan Anda telah menginstal Git di komputer Anda.
+- Buka terminal atau command prompt.
+- Jalankan perintah berikut:
+  ```
+  https://github.com/siburianbasrunki/FreelanceTest.git
+  ```
+- Masuk ke direktori proyek
+  ```
+  cd FreelanceTest
+  ```
+- Instal dependensi
+  ```
+  npm install
+  ```
+- Jalankan aplikasi
+  ```
+  npm run dev
+  ```
 ## API yang Digunakan
 
 Proyek ini menggunakan [Fake Store API](https://fakestoreapi.com/) untuk mengambil data produk.
